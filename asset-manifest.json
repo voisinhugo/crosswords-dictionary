@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/crosswords-dictionary/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/crosswords-dictionary/static/js/main.6ac56d6c.chunk.js",
-    "main.js.map": "/crosswords-dictionary/static/js/main.6ac56d6c.chunk.js.map",
+    "main.css": "/crosswords-dictionary/static/css/main.d2777c05.chunk.css",
+    "main.js": "/crosswords-dictionary/static/js/main.0dc08fcf.chunk.js",
+    "main.js.map": "/crosswords-dictionary/static/js/main.0dc08fcf.chunk.js.map",
     "runtime-main.js": "/crosswords-dictionary/static/js/runtime-main.15df97ef.js",
     "runtime-main.js.map": "/crosswords-dictionary/static/js/runtime-main.15df97ef.js.map",
     "static/js/2.46131f8f.chunk.js": "/crosswords-dictionary/static/js/2.46131f8f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.a66e657b.chunk.js": "/crosswords-dictionary/static/js/3.a66e657b.chunk.js",
     "static/js/3.a66e657b.chunk.js.map": "/crosswords-dictionary/static/js/3.a66e657b.chunk.js.map",
     "index.html": "/crosswords-dictionary/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/crosswords-dictionary/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.d2777c05.chunk.css.map": "/crosswords-dictionary/static/css/main.d2777c05.chunk.css.map",
     "static/js/2.46131f8f.chunk.js.LICENSE.txt": "/crosswords-dictionary/static/js/2.46131f8f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/crosswords-dictionary/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.15df97ef.js",
     "static/js/2.46131f8f.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6ac56d6c.chunk.js"
+    "static/css/main.d2777c05.chunk.css",
+    "static/js/main.0dc08fcf.chunk.js"
   ]
 }
